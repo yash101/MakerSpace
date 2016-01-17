@@ -1,0 +1,24 @@
+﻿Simulation Simulation:1 started: 1/17/2016, 4:14:48 PM
+Number of configurations: 1
+Default mesh: 318 elements, 737 nodes
+Solution time 5s
+Convergence rate: 13.9%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 1/17/2016, 4:14:57 PM
+Total time 0:00:09
+
+Simulation Simulation:1 started: 1/17/2016, 4:18:35 PM
+Number of configurations: 1
+Default mesh: 318 elements, 737 nodes
+Simulation Simulation:1 finished: 1/17/2016, 4:18:35 PM
+Total time 0:00:00
+
+Simulation Simulation:1 started: 1/17/2016, 4:19:27 PM
+Number of configurations: 1
+Default mesh: 318 elements, 737 nodes
+Solution time 4.9s
+Convergence rate: 1.78%
+Problem converged 
+Simulation Simulation:1 finished: 1/17/2016, 4:19:32 PM
+Total time 0:00:05
+
